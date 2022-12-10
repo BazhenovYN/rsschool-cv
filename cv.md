@@ -13,6 +13,8 @@ GitHub: [@bazhenovyn](https://github.com/BazhenovYN)
 
 ## ABOUT ME:
 
+I am a programmer with 10 years of experience. I worked in the development of large ERP solutions on the platform 1С:Enterprise. 1C:Enterprise is a full-stack, low-code platform that provides ready-to-use infrastructure and tools for rapid development of business applications (SAP like). I led a team of 6 people. I have experience in database development, creating ER diagrams, BPMN models, writing Use Case and User Story. I am a big fan of technical innovations. I want to change my development focus and learn web development. I strive to become a high qualified Frontend Developer.
+
 ## EDUCATION:
 
 Ryazan State Radio Engineering University
