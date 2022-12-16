@@ -3,7 +3,6 @@
 ## Junior frontend developer
 
 ## CONTACT:
-Phone: +7 915 614 21 97
 
 E-mail: bazhenovyn@gmail.com
 
