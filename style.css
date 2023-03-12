@@ -3,7 +3,7 @@
 }
 
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
 }
 
 body {
@@ -76,7 +76,7 @@ body {
 
 @media (max-width: 768px) {
     .section {
-      width: 100%;
+        width: 100%;
     }
 }
 
@@ -97,12 +97,12 @@ body {
 }
 
 .section-item a {
-    text-decoration: none;  
+    text-decoration: none;
     transition: color 0.5s;
     color: var(--main-color);
 }
 
-.section-item a:hover{
+.section-item a:hover {
     color: red;
 }
 
